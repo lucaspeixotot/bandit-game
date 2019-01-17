@@ -2,7 +2,7 @@
 This is the solution of bandit game. You can see about this game in [OverTheWire site](http://overthewire.org/wargames/)
 
 ## Solution
-The topic "Level X" will show the command needed to pass X level. This solution starts from level 5 because the levels below are trivial.
+The topic "Level X" will show the command needed to pass the X level. This solution starts from level 5 because the levels below are trivial.
 
 Basically after run the command the password will be obvious.
 
